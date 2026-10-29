@@ -1,0 +1,6 @@
+C001|Andrias Nchabeng|||||0|false|false
+C002|Malefu Motlalehi|||||0|false|false
+C003|Moseli Motopi|||||0|false|false
+C004|Tshepo Nthlane|||||0|false|false
+C005|Mahlape Ntoko|||||0|false|false
+C006|Zuma Umsholozi|50509090||6OgttuiLYU5aiiDa++9Ltw==|1TIeVqnDLbCKZF4Qj+RkIk9RXt1dZSTFXEjGomP3oi0=|0|false|false
